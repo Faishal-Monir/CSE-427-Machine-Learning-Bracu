@@ -8,6 +8,10 @@ Final project repository for CSE-427. The main project trains multiple ML models
 - Evaluation: Accuracy, classification report, and confusion matrices.
 - Extras: Feature importance comparisons and batch prediction on a separate test dataset.
 
+### Group Members:
+[Faishal Monir](https://github.com/Faishal-Monir) | [Umma Salma Mim](https://github.com/ummasalmamim)
+
+
 ## Dataset
 The notebook expects a training and test CSV with a `Target` column:
 - `Target` labels: `Dropout`, `Graduate`, `Enrolled` (mapped to 0/1/2).
